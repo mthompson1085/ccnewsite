@@ -673,6 +673,7 @@ p {
 .ud-features {
   padding-top: 120px;
   padding-bottom: 90px;
+  font-family: 'Kalam'
 }
 
 @media (max-width: 767px) {
@@ -683,8 +684,8 @@ p {
 }
 
 .ud-section-title {
-  max-width: 620px;
   margin-bottom: 70px;
+  text-align: center;
 }
 
 .ud-section-title span {
