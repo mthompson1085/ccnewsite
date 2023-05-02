@@ -508,6 +508,9 @@ p {
 .ud-hero {
   background: var(--primary-color);
   padding-top: 180px;
+  background-image: url('../images/hero/header.jpg');
+  background-size: cover;
+  background-position: center;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
@@ -529,7 +532,7 @@ p {
 }
 
 .ud-hero-content .ud-hero-title {
-  color: var(--white);
+  color:darkblue;
   font-weight: 700;
   font-size: 45px;
   line-height: 60px;
@@ -556,7 +559,7 @@ p {
   font-size: 20px;
   line-height: 35px;
   text-align: center;
-  color: var(--white);
+  color: darkblue;
   opacity: 0.8;
   max-width: 600px;
   margin: auto;
@@ -658,6 +661,11 @@ p {
 .ud-hero-image .shape.shape-2 {
   top: -20px;
   right: -20px;
+}
+
+.video-title {
+  text-align: center;
+  color: darkblue;
 }
 
 /* ===== Features CSS ===== */
