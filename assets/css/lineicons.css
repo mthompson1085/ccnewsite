@@ -2208,3 +2208,7 @@ Author: lineicons.com
 .lni-zoom-out::before {
   content: "\ec14";
 }
+.video-container {
+  display: flex;
+  justify-content: center;
+}

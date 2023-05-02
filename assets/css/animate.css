@@ -231,4 +231,8 @@
     -webkit-animation-iteration-count: 1 !important;
     animation-iteration-count: 1 !important;
   }
+  .video-container {
+      display: flex;
+      justify-content: center;
+    }
 }

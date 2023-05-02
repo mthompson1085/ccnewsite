@@ -2609,5 +2609,10 @@ p {
     font-size: 14px;
     padding: 10px 20px;
   }
+  .video-container {
+    display: flex;
+    justify-content: center;
+  }
+  
 }
 /*# sourceMappingURL=ud-styles.css.map */
