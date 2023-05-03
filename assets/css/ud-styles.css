@@ -883,6 +883,13 @@ p {
     text-align: center;
   }
 }
+.about-image {
+  width: 900px;
+  height: 600px;
+  padding-top: 160px;
+  padding-right:80px;
+}
+
 
 /* ===== Pricing CSS ===== */
 .ud-pricing {
