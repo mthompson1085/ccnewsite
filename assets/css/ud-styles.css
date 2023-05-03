@@ -884,11 +884,15 @@ p {
   }
 }
 .about-image {
-  width: 900px;
-  height: 600px;
-  padding-top: 160px;
-  padding-right:80px;
+  width: 100%;
+  height: auto; /* This will keep the aspect ratio of the image */
+  padding-top: 30%;
+  padding-right: 5%;
+  padding-left: 5%;
+  padding-bottom: 30%;
 }
+
+
 
 
 /* ===== Pricing CSS ===== */
